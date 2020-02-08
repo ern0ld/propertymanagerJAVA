@@ -1,0 +1,29 @@
+<component name="libraryTable">
+  <library name="lib1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/RemoteServer/lib/javax.annotation.jar!/" />
+      <root url="jar://$PROJECT_DIR$/RemoteServer/lib/policy.jar!/" />
+      <root url="jar://$PROJECT_DIR$/RemoteServer/lib/jaxb-impl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/RemoteServer/lib/saaj-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/RemoteServer/lib/streambuffer.jar!/" />
+      <root url="jar://$PROJECT_DIR$/RemoteServer/lib/jaxws-rt.jar!/" />
+      <root url="jar://$PROJECT_DIR$/RemoteServer/lib/mimepull.jar!/" />
+      <root url="jar://$PROJECT_DIR$/RemoteServer/lib/mail.jar!/" />
+      <root url="jar://$PROJECT_DIR$/RemoteServer/lib/jaxws-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/RemoteServer/lib/woodstox-core-asl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/RemoteServer/lib/FastInoset.jar!/" />
+      <root url="jar://$PROJECT_DIR$/RemoteServer/lib/stax2-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/RemoteServer/lib/jaxb-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/RemoteServer/lib/gmbal-api-only.jar!/" />
+      <root url="jar://$PROJECT_DIR$/RemoteServer/lib/ha-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/RemoteServer/lib/jaxb-xjc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/RemoteServer/lib/saaj-impl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/RemoteServer/lib/stax-ex.jar!/" />
+      <root url="jar://$PROJECT_DIR$/RemoteServer/lib/jsr181-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/RemoteServer/lib/management-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/RemoteServer/lib/jaxws-tools.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,29 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/controlserver/lib/jaxws-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/controlserver/lib/jsr181-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/controlserver/lib/stax-ex.jar!/" />
+      <root url="jar://$PROJECT_DIR$/controlserver/lib/policy.jar!/" />
+      <root url="jar://$PROJECT_DIR$/controlserver/lib/jaxb-impl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/controlserver/lib/jaxb-xjc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/controlserver/lib/jaxws-rt.jar!/" />
+      <root url="jar://$PROJECT_DIR$/controlserver/lib/mimepull.jar!/" />
+      <root url="jar://$PROJECT_DIR$/controlserver/lib/management-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/controlserver/lib/woodstox-core-asl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/controlserver/lib/streambuffer.jar!/" />
+      <root url="jar://$PROJECT_DIR$/controlserver/lib/javax.annotation.jar!/" />
+      <root url="jar://$PROJECT_DIR$/controlserver/lib/ha-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/controlserver/lib/FastInoset.jar!/" />
+      <root url="jar://$PROJECT_DIR$/controlserver/lib/stax2-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/controlserver/lib/saaj-impl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/controlserver/lib/gmbal-api-only.jar!/" />
+      <root url="jar://$PROJECT_DIR$/controlserver/lib/mail.jar!/" />
+      <root url="jar://$PROJECT_DIR$/controlserver/lib/jaxb-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/controlserver/lib/saaj-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/controlserver/lib/jaxws-tools.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
